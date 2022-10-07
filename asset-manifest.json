@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sasi-anil/static/css/main.073c9b0a.css",
+    "main.js": "/sasi-anil/static/js/main.1098ae64.js",
+    "static/js/787.91bea2d7.chunk.js": "/sasi-anil/static/js/787.91bea2d7.chunk.js",
+    "static/media/logo.svg": "/sasi-anil/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sasi-anil/index.html",
+    "main.073c9b0a.css.map": "/sasi-anil/static/css/main.073c9b0a.css.map",
+    "main.1098ae64.js.map": "/sasi-anil/static/js/main.1098ae64.js.map",
+    "787.91bea2d7.chunk.js.map": "/sasi-anil/static/js/787.91bea2d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1098ae64.js"
+  ]
+}
